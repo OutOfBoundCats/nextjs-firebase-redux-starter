@@ -6,10 +6,9 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&style=for-the-badge&color=24B36B&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/github/license/jpedroschmitz/typescript-nextjs-starter?style=for-the-badge&color=24B36B&labelColor=000000">
 
-  <a href="https://twitter.com/intent/follow?screen_name=jpedroschmitz">
-    <img src="https://img.shields.io/twitter/follow/jpedroschmitz?style=for-the-badge&color=24B36B&labelColor=000000" alt="Follow @jpedroschmitz" />
+  <a href="https://twitter.com/intent/follow?screen_name=OutOfBoundCats">
+    <img src="https://img.shields.io/twitter/follow/OutOfBoundCats?style=for-the-badge&color=24B36B&labelColor=000000" alt="Follow @OutOfBoundCats" />
   </a>
 </p>
 
